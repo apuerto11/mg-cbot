@@ -20,4 +20,4 @@ yarn install
 
 Une fois l'application démarée, un Swagger est mis a disposition sur http://localhost:3000/docs
 
-[Imgur](https://imgur.com/z15Xn89)
+[Imgur]https://imgur.com/AKm12iW
