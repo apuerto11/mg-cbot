@@ -13,5 +13,11 @@ Avant de démarrer, assurez-vous d'avoir installé les dépendances nécessaires
 Clonez le dépôt et installez les dépendances :
 
 npm install
-# ou
+  ou
 yarn install
+
+## Documentation
+
+Une fois l'application démarée, un Swagger est mis a disposition sur http://localhost:3000/docs
+
+![alt text](https://imgur.com/a/usWUEtZ.png)
